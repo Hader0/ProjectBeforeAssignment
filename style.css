@@ -17,7 +17,7 @@
 }
 
 body {
-    background-color: var(--mid-grey);
+    background-color: var(--light-grey);
 
     display: flex;
     flex-direction: column;
@@ -28,7 +28,7 @@ body {
 /* Header and Nav */
 header {
     background-color: var(--light-pink);
-    min-height: 12dvh;
+    height: 12dvh;
     width: 100%;
 
     display: flex;
@@ -38,7 +38,7 @@ header {
 }
 
 nav {
-    padding-top:1em;
+    margin-top:1em;
 }
 
 nav > a {
