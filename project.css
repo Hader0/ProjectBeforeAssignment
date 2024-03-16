@@ -22,9 +22,6 @@
     height: 20dvh;
 }
 
-.projectPreview > p {
-}
-
 .projectPreview > a {
     background-color: var(--mid-pink);
     padding: 1em;
